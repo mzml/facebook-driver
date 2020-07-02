@@ -1,2 +1,2 @@
 # facebook-driver
-facebook forever
+An experiment in testing by controlling facebook in a browser programatically.
